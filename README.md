@@ -30,25 +30,27 @@
 
 ---
 
-### 🔹 **📌 Featured Projects**
+## 🔹 📌 Featured Projects
 
-- ✅ [**Local Services Web App**](https://github.com/aadhiprince/Local-Services-App)  
-  _Tech: React, Node.js, Express.js, MySQL_  
-  A full-stack platform for booking local home services like plumbing, electrical, etc.
+- ✅ [**Standard Notes Lite**](https://github.com/aadhiprince/Standard-Notes-Lite)  
+  _Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js)_  
+  A secure note-taking app with full CRUD operations, JWT-based authentication, and user-specific storage.
+
+- ✅ [**Local Services Web App**](https://github.com/aadhiprince/Local-Services)  
+  _Tech Stack: React, Node.js, Express.js, MySQL_  
+  A full-stack platform to search, book, and manage local home services like plumbing and electrical.
+
+- ✅ [**Crypto Price Tracker**](https://github.com/aadhiprince/Crypto-price-Tracker)  
+  _Tech Stack: React.js, Chart.js, REST API Integration_  
+  Tracks real-time cryptocurrency prices with interactive charts, coin filtering, and dynamic API data rendering.
 
 - ✅ [**Attendance Management System**](https://github.com/aadhiprince/Attendance-Management-System)  
-  _Tech: React, Node.js, Express, MySQL_  
-  Automates student attendance tracking with admin and faculty roles.
+  _Tech Stack: React, Node.js, Express.js, MySQL_  
+  Role-based attendance portal with login authentication for admin, staff, and students, including attendance reports.
 
-- ✅ [**Library Management System**](https://github.com/aadhiprince/Library-Management-System)  
-  _Tech: Node.js, Express, MySQL, HTML/CSS_  
-  Backend and frontend app to manage books, issue/return, and student details.
+---
 
-- ✅ [**AI Chatbot (Gemini API)**](https://github.com/aadhiprince/AI-Chatbot)  
-  _Tech: React.js, Gemini API_  
-  Chatbot interface integrated with Google's Gemini API to simulate real conversations.
-
-📂 **More projects available on my [GitHub Repositories](https://github.com/aadhiprince)**
+📂 **Explore more projects on my [GitHub profile](https://github.com/aadhiprince)**
 
 ---
 
