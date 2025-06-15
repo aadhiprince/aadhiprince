@@ -36,15 +36,15 @@
   _Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js)_  
   A secure note-taking app with full CRUD operations, JWT-based authentication, and user-specific storage.
 
-- ✅ [**Local Services Web App**](https://github.com/aadhiprince/Local-Services)  
+- ✅ [**Local Services Web App**](https://github.com/aadhiprince/local_services)  
   _Tech Stack: React, Node.js, Express.js, MySQL_  
   A full-stack platform to search, book, and manage local home services like plumbing and electrical.
 
-- ✅ [**Crypto Price Tracker**](https://github.com/aadhiprince/Crypto-price-Tracker)  
+- ✅ [**Crypto Price Tracker**](https://github.com/aadhiprince/Cryptoprice-Tracker)  
   _Tech Stack: React.js, Chart.js, REST API Integration_  
   Tracks real-time cryptocurrency prices with interactive charts, coin filtering, and dynamic API data rendering.
 
-- ✅ [**Attendance Management System**](https://github.com/aadhiprince/Attendance-Management-System)  
+- ✅ [**Attendance Management System**](https://github.com/aadhiprince/aaasc-attendance)  
   _Tech Stack: React, Node.js, Express.js, MySQL_  
   Role-based attendance portal with login authentication for admin, staff, and students, including attendance reports.
 
