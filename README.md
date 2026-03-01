@@ -1,60 +1,66 @@
-<h1 align="center">Hi, I'm Aadhithyan 👋</h1>
-<h3 align="center">Full-Stack Engineer | Angular • React • Node.js • TypeScript</h3>
+<h1 align="center">Aadhithyan Saravanan</h1>
+<h3 align="center">Software Developer | Angular • Node.js • TypeScript • AWS</h3>
 
 <p align="center">
-  Building scalable web & cross-platform applications (Web, Android & iOS)
+  Building scalable SaaS applications & cross-platform mobile solutions
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Full-Stack Engineer with hands-on production experience in a cloud-based SaaS platform
-- 🛠 Delivered 40+ production features across business-critical modules
-- 📱 Built and supported cross-platform deployments (Web, Android APK, iOS) using Ionic
-- 🔐 Experienced in REST APIs, RBAC, authentication, and scalable database design
-- ⚡ Focused on writing clean, maintainable, performance-oriented code
+- 💼 Software Developer with hands-on experience delivering **40+ production-grade features** in a cloud-based automotive SaaS platform  
+- 📱 Experienced in cross-platform mobile builds (Web, Android APK, iOS) using Ionic  
+- 🔐 Strong in REST API design, RBAC, authentication (JWT), and backend validations  
+- ⚡ Focused on performance optimization, clean architecture, and scalable systems  
 
 ---
 
 ## 🧠 Tech Stack
 
 ### Frontend
-Angular • React • TypeScript • JavaScript • HTML • CSS • Ionic
+Angular • Ionic • React • TypeScript • JavaScript • HTML • CSS  
 
 ### Backend
-Node.js • Express.js • Java
+Node.js • Express.js • Core Java • REST APIs • JWT  
 
-### Database
-MySQL • MongoDB
+### Database & Caching
+MySQL • MongoDB • Redis  
+
+### Cloud & DevOps
+AWS (EC2, S3 – basic) • NGINX (Load Balancing) • Firebase • Render  
 
 ### Tools
-Git • GitHub • Firebase • Jira • Postman
+Git • GitHub • Postman • Jira • Agile/Scrum  
 
 ---
 
-## 📌 Featured Projects
+## 🏢 Production Experience
 
-### 🔹 Standard Notes Lite  
+### Software Developer Intern – GaragePlug
+
+- Delivered 40+ production sprint tickets across Appointments, Inventory, Dashboard, Petty Cash, and Technician Workflow modules  
+- Implemented complex business logic with reactive state management and strict backend validations  
+- Built reusable Angular components with structured error handling and optimized API consumption  
+- Configured RBAC and compliance-driven workflows for secure data access  
+- Refactored legacy components and optimized client-server payloads, improving responsiveness by ~20%  
+- Managed cross-platform builds and deployed Android & iOS releases for internal testing cycles  
+
+---
+
+## 📌 Featured Project
+
+### Standard Notes Lite  
 Full-Stack Notes Management Application  
-**Tech:** React • Node.js • Express • MySQL  
 
-- Secure authentication with JWT  
-- Full CRUD, archive/restore, and structured database design  
-- RESTful API architecture  
+**Tech:** Node.js • Express • MySQL • React  
 
-🔗 https://github.com/aadhiprince/standard-notes-lite
+- Architected normalized database schema  
+- Designed high-performance RESTful APIs  
+- Implemented authentication, CRUD, archive/restore, and structured data workflows  
+- Deployed via Netlify & Render  
 
----
-
-### 🔹 Local Services Platform  
-**Tech:** React • Node.js • Express • MySQL  
-
-- Search & booking workflows  
-- Backend data persistence  
-- Modular frontend components  
-
-🔗 https://github.com/aadhiprince/local_services
+🔗 https://github.com/aadhiprince/standard-notes-lite  
 
 ---
 
@@ -66,4 +72,4 @@ Email: aadhisaravanan47@gmail.com
 
 ---
 
-⭐ Always building. Always learning. Open to impactful engineering opportunities.
+⭐ Production-focused engineer building scalable, real-world systems.
