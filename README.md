@@ -1,5 +1,5 @@
 <h1 align="center">Aadhithyan Saravanan</h1>
-<h3 align="center">Software Developer | Angular • Node.js • TypeScript • AWS</h3>
+<h3 align="center">Software Developer | Angular • Ionic • TypeScript • JavaScript</h3>
 
 <p align="center">
   Building scalable SaaS applications & cross-platform mobile solutions
