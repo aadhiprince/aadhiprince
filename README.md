@@ -50,6 +50,20 @@ Git • GitHub • Postman • Jira • Agile/Scrum
 
 ## 📌 Featured Project
 
+Service Marketplace Platform (Full-Stack)
+
+Scalable service marketplace with Angular 18, Node.js, and MySQL
+
+Tech: Angular 18 • Node.js • MySQL • AI • JWT • RBAC
+
+- Built Signals-driven UI for responsive performance across Admin, Vendor, and Customer roles
+- Designed optimized RESTful APIs with Raw SQL and secure JWT-based RBAC
+- Developed end-to-end booking lifecycle and automated 10% platform commission system
+- Implemented AI-based service/vendor recommendations to improve user experience
+- Deployed and hosted on Netlify & Render with Aiven-managed database
+
+🔗 Live Demo : https://service-booking-system.netlify.app/
+
 ### Standard Notes Lite  
 Full-Stack Notes Management Application  
 
