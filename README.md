@@ -62,7 +62,7 @@ Tech: Angular 18 • Node.js • MySQL • AI • JWT • RBAC
 - Implemented AI-based service/vendor recommendations to improve user experience
 - Deployed and hosted on Netlify & Render with Aiven-managed database
 
-🔗 Live Demo : https://service-booking-system.netlify.app/
+🔗 Live: https://service-booking-system.netlify.app/
 
 ### Standard Notes Lite  
 Full-Stack Notes Management Application  
