@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 💼 Software Developer with hands-on experience delivering **40+ production-grade features** in a cloud-based automotive SaaS platform  
+- 💼 Software Developer with hands-on experience delivering **70+ production-grade features** in a cloud-based automotive SaaS platform  
 - 📱 Experienced in cross-platform mobile builds (Web, Android APK, iOS) using Ionic  
 - 🔐 Strong in REST API design, RBAC, authentication (JWT), and backend validations  
 - ⚡ Focused on performance optimization, clean architecture, and scalable systems  
@@ -18,17 +18,20 @@
 
 ## 🧠 Tech Stack
 
+### Languages
+TypeScript • JavaScript • Java
+
 ### Frontend
 Angular • Ionic • React • TypeScript • JavaScript • HTML • CSS  
 
 ### Backend
-Node.js • Express.js • Core Java • REST APIs • JWT  
+Node.js • Express.js •REST APIs • JWT  
 
-### Database & Caching
-MySQL • MongoDB • Redis  
+### Database
+MySQL • MongoDB
 
-### Cloud & DevOps
-AWS (EC2, S3 – basic) • NGINX (Load Balancing) • Firebase • Render  
+### Cloud & Devployment
+Firebase • Render • Netlify • Aiven
 
 ### Tools
 Git • GitHub • Postman • Jira • Agile/Scrum  
